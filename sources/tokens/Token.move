@@ -1,4 +1,7 @@
 /// This module provides the foundation for Tokens.
+/// This module provides the foundation for Tokens.
+/// This module provides the foundation for Tokens.
+/// This module provides the foundation for Tokens.
 module MyAddress::Token {
     use Std::ASCII;
     use Std::Errors;
