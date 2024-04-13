@@ -3,6 +3,9 @@
 # Copyright (c) Aptos
 # SPDX-License-Identifier: Apache-2.0
 
+# SPDX-License-Identifier: Apache-2.0 test2
+# SPDX-License-Identifier: Apache-2.0 test1
+
 import json
 import requests
 from typing import Any, Dict
